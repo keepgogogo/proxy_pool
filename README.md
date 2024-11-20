@@ -19,6 +19,7 @@ ProxyPool 爬虫代理IP池
 This repository is forked from https://github.com/jhao104/proxy_pool
 
 本仓库来自对 https://github.com/jhao104/proxy_pool 的forked
+
 主要目的是继续维护代理池的代理获取能力，接受所有更新代理源以及对特定代理源的频繁请求等限制进行绕过和应对的提交
 
 ### ProxyPool
